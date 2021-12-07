@@ -1,0 +1,3 @@
+C:/Users/betoh/OneDrive/Documentos/IPN/2 Semestre/Algoritmos y estructura de datos/C/McCluskey final/cmake-build-debug/CMakeFiles/McCluskey_final.dir
+C:/Users/betoh/OneDrive/Documentos/IPN/2 Semestre/Algoritmos y estructura de datos/C/McCluskey final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/betoh/OneDrive/Documentos/IPN/2 Semestre/Algoritmos y estructura de datos/C/McCluskey final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
